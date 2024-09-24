@@ -1,0 +1,4 @@
+[submodule "masauer2.github.io"]
+	path = masauer2.github.io
+	url = ../masauer2.github.io/
+	branch = main
